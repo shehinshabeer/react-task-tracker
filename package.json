@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Study & Internship Task Tracker built with React and Vite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
